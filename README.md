@@ -1,7 +1,9 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Visit my blog
-Don't forget to visit my blog at [blog.hildenco.com](https://blog.hildenco.com).
+## Visit my blog
+Feel free to also visit my blog at [blog.hildenco.com](https://blog.hildenco.com).
+
+---
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
